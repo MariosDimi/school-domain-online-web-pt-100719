@@ -29,4 +29,4 @@ school.add_student("Kelly Kapowski", 10)
 school.add_student("Screech", 11)
 school.roster
 school.grade(9)
-school.skip_before_filter
+school.sort
